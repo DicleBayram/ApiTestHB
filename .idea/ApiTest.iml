@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-java:1.2.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="cobertura:cobertura:1.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-core:1.2.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-junit:1.2.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-jvm-deps:1.0.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="net.masterthought:cucumber-reporting:0.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:gherkin:2.12.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+</module>
